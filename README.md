@@ -1,6 +1,6 @@
 # Safety Arithmetic: A Framework for Test-time Safety Alignment of Language Models by Steering Parameters and Activations
 
-:point_right: Dataset coming soon!
+:point_right: Dataset updated.
 
 👉 [Read the paper](https://arxiv.org/abs/2406.11801)
 
