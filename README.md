@@ -1,4 +1,4 @@
-# Safety Arithmetic: A Framework for Test-time Safety Alignment of Language Models by Steering Parameters and Activations
+# Safety Arithmetic: A Framework for Test-time Safety Alignment of Language Models by Steering Parameters and Activations (EMNLP 2024 Main)
 
 :point_right: Dataset updated.
 
